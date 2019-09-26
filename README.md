@@ -1,6 +1,10 @@
 # Telefon
 Min edit på gcphone
 
+
+Video: https://streamable.com/24rzt
+
+
 <h2>Screenshots</h2>
 
 ![Alt text](https://i.imgur.com/th6rGKR.jpg?raw=true "Swish")
