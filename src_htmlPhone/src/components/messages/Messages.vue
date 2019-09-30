@@ -28,10 +28,7 @@
           @keyup.enter.prevent="send"
         >
         <div class="sms_send" @click.stop="send">
-          <svg height="24" viewBox="0 0 24 24" width="24" @click.stop="send">
-              <path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/>
-              <path d="M0 0h24v24H0z" fill="none"/>
-          </svg>
+          <svg xmlns="http://www.w3.org/2000/svg" id="Capa_1" enable-background="new 0 0 515.556 515.556" height="512px" viewBox="0 0 515.556 515.556" width="512px" class=""><g transform="matrix(6.12323e-17, -1, 1, 6.12323e-17, 0, 515.556)"><path d="m257.778 0c-142.137 0-257.778 115.641-257.778 257.778s115.641 257.778 257.778 257.778 257.778-115.641 257.778-257.778-115.642-257.778-257.778-257.778zm16.111 354.445v-64.445h-145v-64.444h145v-64.444l112.778 96.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#16B861" /></g> </svg>
         </div>
     </div>
   </div>
